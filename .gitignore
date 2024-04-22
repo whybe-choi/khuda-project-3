@@ -3,3 +3,4 @@ __pycache__/
 .streamlit/
 .ipynb_checkpoints/
 .DS_Store
+venv
